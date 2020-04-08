@@ -1,2 +1,2 @@
 # UToledoHelloWorld
-Homework Assign #1
+Homework Assignment and Demo Repository
